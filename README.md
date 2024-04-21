@@ -1,6 +1,6 @@
 # Remitly internship task - Bartłomiej Woźniczka
- The repository contains a solved internship task 
-### How to run
+The repository contains a solved internship task
+### How to run 
 ```
 python main.py <path-to-JSON-file>
 ```
